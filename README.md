@@ -28,7 +28,7 @@ A Zalo Mini App template perfect for hospitals, clinics, and healthcare provider
 
 ### Using Zalo Mini App Extension
 
-1. Install [Visual Studio Code](https://code.visualstudio.com/download) and [Zalo Mini App Extension](https://mini.zalo.me/docs/dev-tools).
+1. Install [Visual Studio Code](https://code.visualstudio.com/download) and [Zalo Mini App Extension](https://miniapp.zaloplatforms.com/documents/devtools).
 1. Click on **Create Project** > Choose **ZaUI Doctor** template > Wait until the generated project is ready.
 1. **Configure App ID** and **Install Dependencies**, then navigate to the **Run** panel > **Start** to develop your Mini App 🚀
 
@@ -37,7 +37,7 @@ A Zalo Mini App template perfect for hospitals, clinics, and healthcare provider
 > **Note:** Vite 5 compatibility in CLI is under development. Until then, please use the Zalo Mini App Extension.
 
 1. [Install Node JS](https://nodejs.org/en/download/).
-1. [Install Zalo Mini App CLI](https://mini.zalo.me/docs/dev-tools/cli/intro/).
+1. [Install Zalo Mini App CLI](https://miniapp.zaloplatforms.com/documents/devtools/cli/intro/).
 1. **Download** or **clone** this repository.
 1. **Install dependencies**:
    ```bash
@@ -49,13 +49,9 @@ A Zalo Mini App template perfect for hospitals, clinics, and healthcare provider
    ```
 1. **Open** `localhost:3000` in your browser and start coding 🔥
 
-### Using Zalo Mini App Studio
-
-This template is built using **Vite 5.x**, which is **not compatible** with Zalo Mini App Studio.
-
 ## Deployment
 
-1. **Create** a Zalo Mini App ID. For instructions, please refer to the [Coffee Shop Tutorial](https://mini.zalo.me/tutorial/coffee-shop/step-1/).
+1. **Create** a Zalo Mini App ID. For instructions, please refer to the [Coffee Shop Tutorial](https://miniapp.zaloplatforms.com/documents/tutorial/coffee-shop).
 
 1. **Deploy** your mini program to Zalo using the ID created.
 
